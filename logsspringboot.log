@@ -1,0 +1,44 @@
+2021-05-14 22:59:41.159  INFO 16988 --- [main] tn.kidzoneb.spring.KidZoneBApplication   : Starting KidZoneBApplication on DESKTOP-SKV9U8U with PID 16988 (C:\Users\ngues\Documents\workspace-sts-3.8.4.RELEASE\KidZoneB\src\main\webapp\WEB-INF\classes started by ngues in C:\Users\ngues\Documents\workspace-sts-3.8.4.RELEASE\KidZoneB)
+2021-05-14 22:59:41.167  INFO 16988 --- [main] tn.kidzoneb.spring.KidZoneBApplication   : No active profile set, falling back to default profiles: default
+2021-05-14 23:00:37.091  INFO 16700 --- [main] t.k.spring.KidZoneBApplicationTests      : Starting KidZoneBApplicationTests on DESKTOP-SKV9U8U with PID 16700 (started by ngues in C:\Users\ngues\Documents\workspace-sts-3.8.4.RELEASE\KidZoneB)
+2021-05-14 23:00:37.095  INFO 16700 --- [main] t.k.spring.KidZoneBApplicationTests      : No active profile set, falling back to default profiles: default
+2021-05-14 23:00:38.894  INFO 16700 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFERRED mode.
+2021-05-14 23:00:38.943  INFO 16700 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 29ms. Found 0 JPA repository interfaces.
+2021-05-14 23:00:40.407  INFO 16700 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-05-14 23:00:40.619  INFO 16700 --- [task-1] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-05-14 23:00:40.812  INFO 16700 --- [task-1] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.4.22.Final
+2021-05-14 23:00:41.687  WARN 16700 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-05-14 23:00:41.740  INFO 16700 --- [task-1] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2021-05-14 23:00:43.937  INFO 16700 --- [main] DeferredRepositoryInitializationListener : Triggering deferred initialization of Spring Data repositories…
+2021-05-14 23:00:43.938  INFO 16700 --- [main] DeferredRepositoryInitializationListener : Spring Data repositories initialized!
+2021-05-14 23:00:43.957  INFO 16700 --- [main] t.k.spring.KidZoneBApplicationTests      : Started KidZoneBApplicationTests in 7.734 seconds (JVM running for 10.972)
+2021-05-14 23:00:44.159  INFO 16700 --- [task-1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2021-05-14 23:00:44.543  INFO 16700 --- [SpringContextShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-05-14 23:00:44.911  INFO 16700 --- [task-1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2021-05-14 23:00:44.963  INFO 16700 --- [task-1] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2021-05-14 23:00:46.142  INFO 16700 --- [task-1] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-05-14 23:00:46.159  INFO 16700 --- [task-1] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-05-14 23:00:46.164  INFO 16700 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2021-05-14 23:00:46.165  INFO 16700 --- [SpringContextShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2021-05-14 23:00:46.200  INFO 16700 --- [SpringContextShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2021-05-14 23:01:27.363  INFO 9956 --- [main] t.k.spring.KidZoneBApplicationTests      : Starting KidZoneBApplicationTests on DESKTOP-SKV9U8U with PID 9956 (started by ngues in C:\Users\ngues\Documents\workspace-sts-3.8.4.RELEASE\KidZoneB)
+2021-05-14 23:01:27.371  INFO 9956 --- [main] t.k.spring.KidZoneBApplicationTests      : No active profile set, falling back to default profiles: default
+2021-05-14 23:01:28.893  INFO 9956 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFERRED mode.
+2021-05-14 23:01:28.958  INFO 9956 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 42ms. Found 0 JPA repository interfaces.
+2021-05-14 23:01:30.333  INFO 9956 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-05-14 23:01:30.487  INFO 9956 --- [task-1] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-05-14 23:01:30.808  INFO 9956 --- [task-1] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.4.22.Final
+2021-05-14 23:01:31.999  WARN 9956 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-05-14 23:01:32.034  INFO 9956 --- [task-1] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2021-05-14 23:01:34.226  INFO 9956 --- [main] DeferredRepositoryInitializationListener : Triggering deferred initialization of Spring Data repositories…
+2021-05-14 23:01:34.227  INFO 9956 --- [main] DeferredRepositoryInitializationListener : Spring Data repositories initialized!
+2021-05-14 23:01:34.251  INFO 9956 --- [main] t.k.spring.KidZoneBApplicationTests      : Started KidZoneBApplicationTests in 7.481 seconds (JVM running for 9.613)
+2021-05-14 23:01:35.385  INFO 9956 --- [SpringContextShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-05-14 23:01:35.498  INFO 9956 --- [task-1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2021-05-14 23:01:36.055  INFO 9956 --- [task-1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2021-05-14 23:01:36.095  INFO 9956 --- [task-1] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2021-05-14 23:01:37.145  INFO 9956 --- [task-1] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-05-14 23:01:37.162  INFO 9956 --- [task-1] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-05-14 23:01:37.164  INFO 9956 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2021-05-14 23:01:37.165  INFO 9956 --- [SpringContextShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2021-05-14 23:01:37.196  INFO 9956 --- [SpringContextShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
